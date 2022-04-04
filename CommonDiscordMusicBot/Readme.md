@@ -10,7 +10,7 @@
 
 ## Installation
 
-Before installation you must fill [settings.env]https://github.com/mayday9905/CommonDiscordMusicBot/blob/master/CommonDiscordMusicBot/settings.env.example file
+Before installation you must fill [settings.env](https://github.com/mayday9905/CommonDiscordMusicBot/blob/master/CommonDiscordMusicBot/settings.env.example) file
 
 With Docker support you can easily install and run bot
 
