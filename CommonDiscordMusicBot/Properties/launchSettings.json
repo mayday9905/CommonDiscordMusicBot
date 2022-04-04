@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "CommonDiscordMusicBot": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
